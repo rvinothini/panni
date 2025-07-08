@@ -1,0 +1,3 @@
+git add panni.txt
+git commit-m "Add panni file"
+git push orgin main
